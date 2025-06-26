@@ -56,6 +56,7 @@ In the **Blynk app**, set up the following widgets:
 #define BLYNK_TEMPLATE_NAME "DM"
 #define BLYNK_AUTH_TOKEN "V8385YNtixTCjmD8ncExwCMhsaVZcc_i"
 
-## Author
 
-**Manoj Kumar**
+
+##AUTHOR
+Manoj Kumar

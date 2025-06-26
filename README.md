@@ -19,6 +19,9 @@ This project enables control of two DC motors (forward/reverse) and a servo moto
 - Two DC Motors  
 - Power Supply  
 - Smartphone with Blynk App
+- Buck Converter/Voltage Regulator(for ESP32)
+- Plastic chassis(eg..pepsi bottle) for buoyancy
+- Waterproofing(Sealant,hot glue,tape)
 
 ## 🧑‍💻 Software Used
 
